@@ -1,0 +1,43 @@
+<html>
+    <title>Купить технику дешево с доставкой</title>
+    <body style ="font-family: sans-serif; background: RoyalBlue">
+    <h1 style ="text-align: center; background: lightblue; font-size: 45px">Продажа техники</h1>
+ <img src= "https://avatars.mds.yandex.net/i?id=7b51f1e942036233fe9dad2e9e8bb10b7a3cf4d9-9850117-images-thumbs&n=13"width="690px" heigth="40px" >  
+ <header>
+    <p style ="text-align: centre; font-size: 30px">Здесь продаётся новая техника для работы и игр по низкой цене с доставкой!
+</p>
+ </header>
+ <main>
+     <p style ="text-align: centre; font-size: 30px"> Цены:</p>
+     
+     <table style = "border: 2px solid blue; border-collapse: collapse;  background: Deepskyblue"> 
+         <tr>
+             <td style ="border: 2px solid blue; font-size: 20px"> Вид техники </td>
+             <td style ="border: 2px solid blue; font-size: 20px" > Цена </td>
+             <td style ="border: 2px solid blue; font-size: 20px"> характеристики</td>
+             
+         </tr>
+         <tr>
+             <td style ="border: 2px solid blue; font-size: 20px"> Poco X3 Pro</td>
+             <td style ="border: 2px solid blue; font-size: 20px"> 13000 зуб.</td>
+             <td style ="border: 2px solid blue; font-size: 20px"> 128 гб, 4G(LTE),</td>
+         </tr>
+         <tr>
+             <td style ="border: 2px solid blue; font-size: 20px"> Iphone 15 </td>
+             <td style ="border: 2px solid blue; font-size: 20px">108000 руб.</td>
+             <td style ="border: 2px solid blue; font-size: 20px"> 512 гб, 5G(LTE)</td>
+         </tr>
+         <tr>
+         <td style ="border: 2px solid blue; font-size: 20px"> Macbook air 15</td>
+         <td style ="border: 2px solid blue; font-size: 20px" > 160000</td>
+         <td style ="border: 2px solid blue; font-size: 20px"> 512 Гб, 8 Гб ОП</td>
+         </tr>
+     </table>
+       
+ </main>
+ <footer>
+      <img src= "https://avatars.mds.yandex.net/i?id=1223091c31ba511e38dcde9901c3f9b5-4402005-images-thumbs&n=13" width="690px">
+    <p style="font-size: 30px">Если у вас ест какие-то вопросы, пишите мне на мой номер телефона или почеу : +9212301346, hihiha14@gamil.com</p>
+ </footer>
+  </body>
+</html>
